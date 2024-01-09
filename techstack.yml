@@ -1,0 +1,98 @@
+repo_name: 2lambda123/kastlex
+report_id: 4c1ae60e695b5f9fcb71189dafcf7c47
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-09T06:57:49+00:00'
+requested_by: id
+provider: github
+branch: master
+detected_tools_count: 7
+tools:
+- name: Elixir
+  description: Dynamic, functional language designed for building scalable and maintainable
+    applications
+  website_url: http://elixir-lang.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1974/drop.png
+  detection_source_url: https://github.com/2lambda123/kastlex
+  detection_source: Repo Metadata
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/2lambda123/kastlex/blob/master/mix.exs
+  detection_source: mix.exs
+  last_updated_by: Ivan Dyachkov
+  last_updated_on: 2016-05-02 20:48:17.000000000 Z
+- name: Phoenix Framework
+  description: Most web frameworks make you choose between speed and a productive
+    environment. Phoenix gives you both.
+  website_url: http://www.phoenixframework.org
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/3262/-s9uoLIN.png
+  detection_source_url: https://github.com/2lambda123/kastlex/blob/master/mix.exs
+  detection_source: mix.exs
+  last_updated_by: Ivan Dyachkov
+  last_updated_on: 2016-10-03 20:32:24.000000000 Z
+- name: Cowboy
+  description: 'Small, fast, modular HTTP server written in Erlang. '
+  website_url: https://github.com/ninenines/cowboy
+  version: 1.0.4
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Web Servers
+  image_url: https://img.stackshare.io/service/2738/1166740.png
+  detection_source_url: https://github.com/2lambda123/kastlex/blob/master/mix.lock
+  detection_source: mix.exs
+  last_updated_by: Ivan Dyachkov
+  last_updated_on: 2016-10-03 20:32:24.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/kastlex
+  detection_source: Repo Metadata
+- name: RubyGems
+  description: Easily download, install, and use ruby software packages on your system
+  website_url: https://rubygems.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/2lambda123/kastlex/blob/master/mix.exs
+  detection_source: mix.exs
+  last_updated_by: Ivan Dyachkov
+  last_updated_on: 2016-05-02 20:48:17.000000000 Z
+- name: Guardian
+  description: Remove the OAuth dance with one request
+  website_url: http://guardianjs.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: User Management and Authentication
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/2lambda123/kastlex/blob/master/mix.exs
+  detection_source: mix.exs
+  last_updated_by: Ivan Dyachkov
+  last_updated_on: 2016-10-03 21:14:53.000000000 Z
