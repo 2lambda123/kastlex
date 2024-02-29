@@ -3,11 +3,11 @@
 ## Tech Stack
 2lambda123/kastlex is built on the following main stack:
 
-- [Ruby](https://www.ruby-lang.org) – Languages
 - [Elixir](http://elixir-lang.org/) – Languages
-- [Guardian](http://guardianjs.com/) – User Management and Authentication
-- [Cowboy](https://github.com/ninenines/cowboy) – Web Servers
+- [Ruby](https://www.ruby-lang.org) – Languages
 - [Phoenix Framework](http://www.phoenixframework.org) – Frameworks (Full Stack)
+- [Cowboy](https://github.com/ninenines/cowboy) – Web Servers
+- [Guardian](http://guardianjs.com/) – User Management and Authentication
 
 Full tech stack [here](/techstack.md)
 
@@ -17,11 +17,11 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 2lambda123/kastlex is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1974/drop.png' alt='Elixir'/> [Elixir](http://elixir-lang.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='Guardian'/> [Guardian](http://guardianjs.com/) – User Management and Authentication
-- <img width='25' height='25' src='https://img.stackshare.io/service/2738/1166740.png' alt='Cowboy'/> [Cowboy](https://github.com/ninenines/cowboy) – Web Servers
+- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/3262/-s9uoLIN.png' alt='Phoenix Framework'/> [Phoenix Framework](http://www.phoenixframework.org) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/2738/1166740.png' alt='Cowboy'/> [Cowboy](https://github.com/ninenines/cowboy) – Web Servers
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='Guardian'/> [Guardian](http://guardianjs.com/) – User Management and Authentication
 
 Full tech stack [here](/techstack.md)
 
@@ -32,7 +32,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [2lambda123/kastlex](https://github.com/2lambda123/kastlex)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|7<br/>Tools used|01/09/24 <br/>Report generated|
+|7<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
